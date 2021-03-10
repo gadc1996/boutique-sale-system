@@ -1,0 +1,2226 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="2010.7258mm"
+   height="465.33405mm"
+   viewBox="0 0 2010.7258 465.33405"
+   version="1.1"
+   id="svg4266"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="db-schema.svg">
+  <defs
+     id="defs4260" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.92153843"
+     inkscape:cx="6853.085"
+     inkscape:cy="464.04599"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-global="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="679"
+     inkscape:window-height="729"
+     inkscape:window-x="0"
+     inkscape:window-y="37"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata4263">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(823.85441,184.63582)">
+    <g
+       transform="translate(-77.86309,-123.40921)"
+       id="layer1-6"
+       inkscape:label="Layer 1">
+      <rect
+         y="85.333321"
+         x="0"
+         height="13.229164"
+         width="370.41666"
+         id="rect3719"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         y="111.79166"
+         x="0"
+         height="13.229161"
+         width="370.41666"
+         id="rect3744"
+         style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect3803"
+         width="370.41666"
+         height="12.70019"
+         x="0"
+         y="138.77896" />
+      <rect
+         y="164.70778"
+         x="0"
+         height="13.229705"
+         width="370.41666"
+         id="rect3813"
+         style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text3817"
+         y="174.23782"
+         x="13.563107"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="fill:#000000;stroke-width:0.26458332"
+           y="183.67609"
+           x="13.563107"
+           id="tspan3815"
+           sodipodi:role="line" /></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="144.95973"
+         y="94.863457"
+         id="text3829"><tspan
+           sodipodi:role="line"
+           id="tspan3827"
+           x="144.95973"
+           y="94.863457"
+           style="fill:#ffffff;stroke-width:0.26458332">Description</tspan></text>
+      <g
+         id="g3939">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="9.8166895"
+           y="94.863457"
+           id="text3723"><tspan
+             sodipodi:role="line"
+             id="tspan3721"
+             x="9.8166895"
+             y="94.863457"
+             style="fill:#ffffff;stroke-width:0.26458332">Name</tspan></text>
+        <text
+           id="text3740"
+           y="108.09263"
+           x="9.7743559"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="fill:#000000;stroke-width:0.26458332"
+             y="108.09263"
+             x="9.7743559"
+             id="tspan3738"
+             sodipodi:role="line">id</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="9.7743559"
+           y="120.78749"
+           id="text3750"><tspan
+             sodipodi:role="line"
+             id="tspan3748"
+             x="9.7743559"
+             y="120.78749"
+             style="fill:#000000;stroke-width:0.26458332">name</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="9.8907728"
+           y="135.07999"
+           id="text3801"><tspan
+             sodipodi:role="line"
+             id="tspan3799"
+             x="9.8907728"
+             y="135.07999"
+             style="fill:#000000;stroke-width:0.26458332">password</tspan></text>
+        <text
+           id="text3807"
+           y="147.85947"
+           x="9.7743559"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="fill:#000000;stroke-width:0.26458332"
+             y="147.85947"
+             x="9.7743559"
+             id="tspan3805"
+             sodipodi:role="line">is_super</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="9.6791058"
+           y="161.0088"
+           id="text3833"><tspan
+             sodipodi:role="line"
+             id="tspan3831"
+             x="9.6791058"
+             y="161.0088"
+             style="fill:#000000;stroke-width:0.26458332">can_discount</tspan></text>
+        <text
+           id="text3837"
+           y="174.27512"
+           x="9.9119396"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="fill:#000000;stroke-width:0.26458332"
+             y="174.27512"
+             x="9.9119396"
+             id="tspan3835"
+             sodipodi:role="line">branch_id</tspan></text>
+      </g>
+      <text
+         id="text3825"
+         y="94.863457"
+         x="79.332664"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="fill:#ffffff;stroke-width:0.26458332"
+           y="94.863457"
+           x="79.332664"
+           id="tspan3823"
+           sodipodi:role="line">Type</tspan></text>
+      <text
+         id="text3857"
+         y="108.09263"
+         x="79.343246"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="108.09263"
+           x="79.343246"
+           id="tspan3855"
+           sodipodi:role="line">int</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="79.311501"
+         y="121.11028"
+         id="text3879"><tspan
+           sodipodi:role="line"
+           id="tspan3877"
+           x="79.311501"
+           y="121.11028"
+           style="stroke-width:0.26458332">varchar(35)</tspan></text>
+      <text
+         id="text3883"
+         y="135.29166"
+         x="79.311501"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="135.29166"
+           x="79.311501"
+           id="tspan3881"
+           sodipodi:role="line">varchar(20)</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="79.311501"
+         y="148.07112"
+         id="text3887"><tspan
+           sodipodi:role="line"
+           id="tspan3885"
+           x="79.311501"
+           y="148.07112"
+           style="stroke-width:0.26458332">bit</tspan></text>
+      <text
+         id="text3891"
+         y="161.61734"
+         x="79.480835"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="161.61734"
+           x="79.480835"
+           id="tspan3889"
+           sodipodi:role="line">bit</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="79.375"
+         y="173.78299"
+         id="text3895"><tspan
+           sodipodi:role="line"
+           id="tspan3893"
+           x="79.375"
+           y="173.78299"
+           style="stroke-width:0.26458332">tinyint</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="144.95973"
+         y="108.09263"
+         id="text3903"><tspan
+           sodipodi:role="line"
+           id="tspan3901"
+           x="144.95973"
+           y="108.09263"
+           style="stroke-width:0.26458332">Employee's ID</tspan></text>
+      <text
+         id="text3907"
+         y="121.11028"
+         x="144.92798"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="121.11028"
+           x="144.92798"
+           id="tspan3905"
+           sodipodi:role="line">Employee's full name, MAX 35 char.</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="144.92798"
+         y="135.29166"
+         id="text3911"><tspan
+           sodipodi:role="line"
+           id="tspan3909"
+           x="144.92798"
+           y="135.29166"
+           style="stroke-width:0.26458332">Employee's password MAX 20 char.</tspan></text>
+      <text
+         id="text3915"
+         y="148.07112"
+         x="144.92798"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="148.07112"
+           x="144.92798"
+           id="tspan3913"
+           sodipodi:role="line">Superuser permission, 1 for true, 0 for false</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="145.09732"
+         y="161.61734"
+         id="text3919"><tspan
+           sodipodi:role="line"
+           id="tspan3917"
+           x="145.09732"
+           y="161.61734"
+           style="stroke-width:0.26458332">Can make discounts to sales, 1 for true, 0 for false</tspan></text>
+      <text
+         id="text3923"
+         y="173.78299"
+         x="144.99149"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="173.78299"
+           x="144.99149"
+           id="tspan3921"
+           sodipodi:role="line">Employee's branch</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.86794281px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-77.307121"
+       y="-47.914268"
+       id="text5106"><tspan
+         sodipodi:role="line"
+         id="tspan5104"
+         x="-77.307121"
+         y="-47.914268"
+         style="stroke-width:0.26458332">Users</tspan></text>
+    <g
+       id="g5137"
+       transform="translate(103.56548,40.065476)">
+      <g
+         inkscape:label="Layer 1"
+         id="layer1-5"
+         transform="translate(312.39733,3.5907865)">
+        <rect
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect3719-3"
+           width="277.8125"
+           height="13.229164"
+           x="0"
+           y="85.333321" />
+        <rect
+           style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect3744-5"
+           width="277.8125"
+           height="13.229164"
+           x="0"
+           y="111.79166" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="13.563107"
+           y="174.23782"
+           id="text3817-6"><tspan
+             sodipodi:role="line"
+             id="tspan3815-2"
+             x="13.563107"
+             y="183.67609"
+             style="fill:#000000;stroke-width:0.26458332" /></text>
+        <text
+           id="text3829-9"
+           y="94.863457"
+           x="144.95973"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="fill:#ffffff;stroke-width:0.26458332"
+             y="94.863457"
+             x="144.95973"
+             id="tspan3827-1"
+             sodipodi:role="line">Description</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="9.8166895"
+           y="94.863457"
+           id="text3723-2"><tspan
+             sodipodi:role="line"
+             id="tspan3721-7"
+             x="9.8166895"
+             y="94.863457"
+             style="fill:#ffffff;stroke-width:0.26458332">Name</tspan></text>
+        <text
+           id="text3740-0"
+           y="108.09263"
+           x="9.7743559"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="fill:#000000;stroke-width:0.26458332"
+             y="108.09263"
+             x="9.7743559"
+             id="tspan3738-9"
+             sodipodi:role="line">id</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="9.7743559"
+           y="120.78749"
+           id="text3750-3"><tspan
+             sodipodi:role="line"
+             id="tspan3748-6"
+             x="9.7743559"
+             y="120.78749"
+             style="fill:#000000;stroke-width:0.26458332">name</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="79.332664"
+           y="94.863457"
+           id="text3825-0"><tspan
+             sodipodi:role="line"
+             id="tspan3823-6"
+             x="79.332664"
+             y="94.863457"
+             style="fill:#ffffff;stroke-width:0.26458332">Type</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="79.343246"
+           y="108.09263"
+           id="text3857-2"><tspan
+             sodipodi:role="line"
+             id="tspan3855-6"
+             x="79.343246"
+             y="108.09263"
+             style="stroke-width:0.26458332">int</tspan></text>
+        <text
+           id="text3879-1"
+           y="121.11028"
+           x="79.311501"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="stroke-width:0.26458332"
+             y="121.11028"
+             x="79.311501"
+             id="tspan3877-8"
+             sodipodi:role="line">varchar(20)</tspan></text>
+        <text
+           id="text3903-7"
+           y="108.09263"
+           x="144.95973"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="stroke-width:0.26458332"
+             y="108.09263"
+             x="144.95973"
+             id="tspan3901-9"
+             sodipodi:role="line">Branch ID</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="144.92798"
+           y="121.11028"
+           id="text3907-2"><tspan
+             sodipodi:role="line"
+             id="tspan3905-0"
+             x="144.92798"
+             y="121.11028"
+             style="stroke-width:0.26458332">Branch name, MAX 20 char.</tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.86794281px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="312.76431"
+         y="78.329781"
+         id="text5110"><tspan
+           sodipodi:role="line"
+           id="tspan5108"
+           x="312.76431"
+           y="78.329781"
+           style="stroke-width:0.26458332">Branch</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.32291663;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 292.55357,47.535713 66.52382,-1.511903 v 104.32143 h 57.45236"
+       id="path5139"
+       inkscape:connector-curvature="0" />
+    <g
+       transform="translate(-53.105654,87.265411)"
+       id="layer1-3"
+       inkscape:label="Layer 1">
+      <rect
+         y="85.333321"
+         x="0"
+         height="13.229164"
+         width="251.35416"
+         id="rect3719-7"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         y="111.79166"
+         x="0"
+         height="13.229164"
+         width="251.35416"
+         id="rect3744-59"
+         style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text3817-2"
+         y="174.23782"
+         x="13.563107"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="fill:#000000;stroke-width:0.26458332"
+           y="183.67609"
+           x="13.563107"
+           id="tspan3815-28"
+           sodipodi:role="line" /></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="144.95973"
+         y="94.863457"
+         id="text3829-97"><tspan
+           sodipodi:role="line"
+           id="tspan3827-3"
+           x="144.95973"
+           y="94.863457"
+           style="fill:#ffffff;stroke-width:0.26458332">Description</tspan></text>
+      <text
+         id="text3723-6"
+         y="94.863457"
+         x="9.8166895"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="fill:#ffffff;stroke-width:0.26458332"
+           y="94.863457"
+           x="9.8166895"
+           id="tspan3721-1"
+           sodipodi:role="line">Name</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="9.7743559"
+         y="108.09263"
+         id="text3740-2"><tspan
+           sodipodi:role="line"
+           id="tspan3738-93"
+           x="9.7743559"
+           y="108.09263"
+           style="fill:#000000;stroke-width:0.26458332">id</tspan></text>
+      <text
+         id="text3750-1"
+         y="120.78749"
+         x="9.7743559"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="fill:#000000;stroke-width:0.26458332"
+           y="120.78749"
+           x="9.7743559"
+           id="tspan3748-9"
+           sodipodi:role="line">branch_id</tspan></text>
+      <text
+         id="text3801-4"
+         y="135.07999"
+         x="9.8907728"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="fill:#000000;stroke-width:0.26458332"
+           y="135.07999"
+           x="9.8907728"
+           id="tspan3799-7"
+           sodipodi:role="line">name</tspan></text>
+      <text
+         id="text3825-8"
+         y="94.863457"
+         x="79.332664"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="fill:#ffffff;stroke-width:0.26458332"
+           y="94.863457"
+           x="79.332664"
+           id="tspan3823-4"
+           sodipodi:role="line">Type</tspan></text>
+      <text
+         id="text3857-5"
+         y="108.09263"
+         x="79.343246"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="108.09263"
+           x="79.343246"
+           id="tspan3855-0"
+           sodipodi:role="line">int</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="79.311501"
+         y="121.11028"
+         id="text3879-3"><tspan
+           sodipodi:role="line"
+           id="tspan3877-6"
+           x="79.311501"
+           y="121.11028"
+           style="stroke-width:0.26458332">int</tspan></text>
+      <text
+         id="text3883-1"
+         y="135.29166"
+         x="79.311501"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="135.29166"
+           x="79.311501"
+           id="tspan3881-0"
+           sodipodi:role="line">varchar(30)</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="144.95973"
+         y="108.09263"
+         id="text3903-6"><tspan
+           sodipodi:role="line"
+           id="tspan3901-3"
+           x="144.95973"
+           y="108.09263"
+           style="stroke-width:0.26458332">Providers' id</tspan></text>
+      <text
+         id="text3907-20"
+         y="121.11028"
+         x="144.92798"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="121.11028"
+           x="144.92798"
+           id="tspan3905-6"
+           sodipodi:role="line">Branch that is provided</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="144.92798"
+         y="135.29166"
+         id="text3911-1"><tspan
+           sodipodi:role="line"
+           id="tspan3909-5"
+           x="144.92798"
+           y="135.29166"
+           style="stroke-width:0.26458332">Name of the provider</tspan></text>
+    </g>
+    <text
+       id="text6337"
+       y="159.97264"
+       x="-52.360691"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.86794281px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="159.97264"
+         x="-52.360691"
+         id="tspan6335"
+         sodipodi:role="line">Providers</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.32291663;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 198.05952,206.28571 h 160.2619 v -55.94047"
+       id="path6339"
+       inkscape:connector-curvature="0" />
+    <g
+       transform="translate(-823.85441,-122.18961)"
+       id="layer1-4"
+       inkscape:label="Layer 1">
+      <text
+         id="text3817-7"
+         y="174.23782"
+         x="13.563107"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="fill:#000000;stroke-width:0.26458332"
+           y="183.67609"
+           x="13.563107"
+           id="tspan3815-6"
+           sodipodi:role="line" /></text>
+      <rect
+         y="218.15291"
+         x="0"
+         height="12.700195"
+         width="595.3125"
+         id="rect4318"
+         style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect4316"
+         width="595.3125"
+         height="13.229156"
+         x="0"
+         y="191.16576" />
+      <rect
+         y="85.333321"
+         x="0"
+         height="13.229164"
+         width="595.3125"
+         id="rect3719-5"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         y="111.79166"
+         x="0"
+         height="13.229164"
+         width="595.3125"
+         id="rect3744-6"
+         style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect3803-9"
+         width="595.3125"
+         height="12.700195"
+         x="0"
+         y="138.77896" />
+      <rect
+         y="164.70778"
+         x="0"
+         height="13.229706"
+         width="595.3125"
+         id="rect3813-3"
+         style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="144.95973"
+         y="94.863457"
+         id="text3829-7"><tspan
+           sodipodi:role="line"
+           id="tspan3827-4"
+           x="144.95973"
+           y="94.863457"
+           style="fill:#ffffff;stroke-width:0.26458332">Description</tspan></text>
+      <text
+         id="text3723-5"
+         y="94.863457"
+         x="9.8166895"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="fill:#ffffff;stroke-width:0.26458332"
+           y="94.863457"
+           x="9.8166895"
+           id="tspan3721-2"
+           sodipodi:role="line">Name</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="9.7743559"
+         y="108.09263"
+         id="text3740-5"><tspan
+           sodipodi:role="line"
+           id="tspan3738-4"
+           x="9.7743559"
+           y="108.09263"
+           style="fill:#000000;stroke-width:0.26458332">id</tspan></text>
+      <text
+         id="text3750-7"
+         y="120.78749"
+         x="9.7743559"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="fill:#000000;stroke-width:0.26458332"
+           y="120.78749"
+           x="9.7743559"
+           id="tspan3748-4"
+           sodipodi:role="line">user_id</tspan></text>
+      <text
+         id="text3801-43"
+         y="135.07999"
+         x="9.8907728"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="fill:#000000;stroke-width:0.26458332"
+           y="135.07999"
+           x="9.8907728"
+           id="tspan3799-0"
+           sodipodi:role="line">date</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="9.7743559"
+         y="147.85947"
+         id="text3807-7"><tspan
+           sodipodi:role="line"
+           id="tspan3805-8"
+           x="9.7743559"
+           y="147.85947"
+           style="fill:#000000;stroke-width:0.26458332">client_id</tspan></text>
+      <text
+         id="text3833-6"
+         y="161.0088"
+         x="9.6791058"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="fill:#000000;stroke-width:0.26458332"
+           y="161.0088"
+           x="9.6791058"
+           id="tspan3831-8"
+           sodipodi:role="line">operation_id</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="9.9119396"
+         y="174.27512"
+         id="text3837-8"><tspan
+           sodipodi:role="line"
+           id="tspan3835-4"
+           x="9.9119396"
+           y="174.27512"
+           style="fill:#000000;stroke-width:0.26458332">gross_total</tspan></text>
+      <text
+         id="text4324"
+         y="187.46678"
+         x="9.7743559"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="fill:#000000;stroke-width:0.26458332"
+           y="187.46678"
+           x="9.7743559"
+           id="tspan4322"
+           sodipodi:role="line">net_total</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="9.7743559"
+         y="200.16151"
+         id="text4328"><tspan
+           sodipodi:role="line"
+           id="tspan4326"
+           x="9.7743559"
+           y="200.16151"
+           style="fill:#000000;stroke-width:0.26458332">discount</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="9.8907728"
+         y="214.45393"
+         id="text4332"><tspan
+           sodipodi:role="line"
+           id="tspan4330"
+           x="9.8907728"
+           y="214.45393"
+           style="fill:#000000;stroke-width:0.26458332">pay_method</tspan></text>
+      <text
+         id="text4336"
+         y="227.23341"
+         x="9.7743559"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="fill:#000000;stroke-width:0.26458332"
+           y="227.23341"
+           x="9.7743559"
+           id="tspan4334"
+           sodipodi:role="line">return status</tspan></text>
+      <text
+         id="text3825-3"
+         y="94.863457"
+         x="79.332664"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="fill:#ffffff;stroke-width:0.26458332"
+           y="94.863457"
+           x="79.332664"
+           id="tspan3823-1"
+           sodipodi:role="line">Type</tspan></text>
+      <text
+         id="text3857-4"
+         y="108.09263"
+         x="79.343246"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="108.09263"
+           x="79.343246"
+           id="tspan3855-9"
+           sodipodi:role="line">int</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="79.311501"
+         y="121.11028"
+         id="text3879-2"><tspan
+           sodipodi:role="line"
+           id="tspan3877-0"
+           x="79.311501"
+           y="121.11028"
+           style="stroke-width:0.26458332">int</tspan></text>
+      <text
+         id="text3883-6"
+         y="135.29166"
+         x="79.311501"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="135.29166"
+           x="79.311501"
+           id="tspan3881-8"
+           sodipodi:role="line">date</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="79.311501"
+         y="148.468"
+         id="text3887-9"><tspan
+           sodipodi:role="line"
+           id="tspan3885-2"
+           x="79.311501"
+           y="148.468"
+           style="stroke-width:0.26458332">int</tspan></text>
+      <text
+         id="text3891-6"
+         y="161.61734"
+         x="79.480835"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="161.61734"
+           x="79.480835"
+           id="tspan3889-6"
+           sodipodi:role="line">int</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="79.375"
+         y="173.78299"
+         id="text3895-4"><tspan
+           sodipodi:role="line"
+           id="tspan3893-9"
+           x="79.375"
+           y="173.78299"
+           style="stroke-width:0.26458332">float(7,2)</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="144.95973"
+         y="108.09263"
+         id="text3903-5"><tspan
+           sodipodi:role="line"
+           id="tspan3901-0"
+           x="144.95973"
+           y="108.09263"
+           style="stroke-width:0.26458332">Sale's ID</tspan></text>
+      <text
+         id="text3907-4"
+         y="121.11028"
+         x="144.92798"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="121.11028"
+           x="144.92798"
+           id="tspan3905-8"
+           sodipodi:role="line">Employee that performed the sale id's</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="144.92798"
+         y="135.29166"
+         id="text3911-7"><tspan
+           sodipodi:role="line"
+           id="tspan3909-1"
+           x="144.92798"
+           y="135.29166"
+           style="stroke-width:0.26458332">Date of the sale</tspan></text>
+      <text
+         id="text3915-7"
+         y="148.07112"
+         x="144.92798"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="157.50938"
+           x="144.92798"
+           id="tspan3913-2"
+           sodipodi:role="line" /></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="145.09732"
+         y="161.61734"
+         id="text3919-7"><tspan
+           sodipodi:role="line"
+           id="tspan3917-2"
+           x="145.09732"
+           y="161.61734"
+           style="stroke-width:0.26458332">All operations are stored in a different database, all sales are operations, but not all operations are sales</tspan></text>
+      <text
+         id="text3923-2"
+         y="173.78299"
+         x="144.99149"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="173.78299"
+           x="144.99149"
+           id="tspan3921-6"
+           sodipodi:role="line">Employee's branch</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="79.343246"
+         y="187.46678"
+         id="text4348"><tspan
+           sodipodi:role="line"
+           id="tspan4346"
+           x="79.343246"
+           y="187.46678"
+           style="stroke-width:0.26458332">float(7,2)</tspan></text>
+      <text
+         id="text4352"
+         y="200.48431"
+         x="79.311501"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="200.48431"
+           x="79.311501"
+           id="tspan4350"
+           sodipodi:role="line">tinyint(100)</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="79.311501"
+         y="214.6656"
+         id="text4356"><tspan
+           sodipodi:role="line"
+           id="tspan4354"
+           x="79.311501"
+           y="214.6656"
+           style="stroke-width:0.26458332">bit</tspan></text>
+      <text
+         id="text4360"
+         y="227.44507"
+         x="79.311501"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="227.44507"
+           x="79.311501"
+           id="tspan4358"
+           sodipodi:role="line">bit</tspan></text>
+      <text
+         id="text4372"
+         y="187.46678"
+         x="144.95973"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="187.46678"
+           x="144.95973"
+           id="tspan4370"
+           sodipodi:role="line">Net total of the sale</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="144.92798"
+         y="200.48431"
+         id="text4376"><tspan
+           sodipodi:role="line"
+           id="tspan4374"
+           x="144.92798"
+           y="200.48431"
+           style="stroke-width:0.26458332">If defined, discount made to the gross total</tspan></text>
+      <text
+         id="text4380"
+         y="214.6656"
+         x="144.92798"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="214.6656"
+           x="144.92798"
+           id="tspan4378"
+           sodipodi:role="line">0 for cash, 1 for card payments</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="144.92798"
+         y="227.44507"
+         id="text4384"><tspan
+           sodipodi:role="line"
+           id="tspan4382"
+           x="144.92798"
+           y="227.44507"
+           style="stroke-width:0.26458332">1 for refound available, 0 for refound not available 7 days after the sale's date</tspan></text>
+      <flowRoot
+         transform="matrix(0.26458334,0,0,0.26458334,0,85.333321)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         id="flowRoot4558"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4560"><rect
+             y="550"
+             x="-50"
+             height="150"
+             width="1500"
+             id="rect4562" /></flowRegion><flowPara
+           id="flowPara4564" /></flowRoot>      <text
+         id="text4594"
+         y="148.44684"
+         x="144.80098"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="148.44684"
+           x="144.80098"
+           id="tspan4592"
+           sodipodi:role="line">Client of the sale id's</tspan></text>
+    </g>
+    <text
+       id="text7530"
+       y="-47.914268"
+       x="-819.24731"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.86794281px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="-47.914268"
+         x="-819.24731"
+         id="tspan7528"
+         sodipodi:role="line">Sales</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.32291663;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -228.78271,-4.4800268 h 109.04596 V -18.378042 h 40.624972"
+       id="path7532"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g7969"
+       transform="translate(200.98668,-20.312484)">
+      <g
+         inkscape:label="Layer 1"
+         id="layer1-0"
+         transform="translate(-810.23322,137.0968)">
+        <rect
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect3719-6"
+           width="370.41666"
+           height="13.229164"
+           x="0"
+           y="85.333321" />
+        <rect
+           style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect3744-1"
+           width="370.41666"
+           height="13.229161"
+           x="0"
+           y="111.79166" />
+        <rect
+           y="138.77896"
+           x="0"
+           height="12.70019"
+           width="370.41666"
+           id="rect3803-5"
+           style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="13.563107"
+           y="174.23782"
+           id="text3817-9"><tspan
+             sodipodi:role="line"
+             id="tspan3815-4"
+             x="13.563107"
+             y="183.67609"
+             style="fill:#000000;stroke-width:0.26458332" /></text>
+        <text
+           id="text3829-90"
+           y="94.863457"
+           x="144.95973"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="fill:#ffffff;stroke-width:0.26458332"
+             y="94.863457"
+             x="144.95973"
+             id="tspan3827-9"
+             sodipodi:role="line">Description</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="9.8166895"
+           y="94.863457"
+           id="text3723-1"><tspan
+             sodipodi:role="line"
+             id="tspan3721-77"
+             x="9.8166895"
+             y="94.863457"
+             style="fill:#ffffff;stroke-width:0.26458332">Name</tspan></text>
+        <text
+           id="text3740-1"
+           y="108.09263"
+           x="9.7743559"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="fill:#000000;stroke-width:0.26458332"
+             y="108.09263"
+             x="9.7743559"
+             id="tspan3738-1"
+             sodipodi:role="line">id</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="9.7743559"
+           y="120.78749"
+           id="text3750-5"><tspan
+             sodipodi:role="line"
+             id="tspan3748-97"
+             x="9.7743559"
+             y="120.78749"
+             style="fill:#000000;stroke-width:0.26458332">type</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="9.8907728"
+           y="135.07999"
+           id="text3801-7"><tspan
+             sodipodi:role="line"
+             id="tspan3799-6"
+             x="9.8907728"
+             y="135.07999"
+             style="fill:#000000;stroke-width:0.26458332">description</tspan></text>
+        <text
+           id="text3807-73"
+           y="147.85947"
+           x="9.7743559"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="fill:#000000;stroke-width:0.26458332"
+             y="147.85947"
+             x="9.7743559"
+             id="tspan3805-6"
+             sodipodi:role="line">date</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="9.6791058"
+           y="161.0088"
+           id="text3833-5"><tspan
+             sodipodi:role="line"
+             id="tspan3831-6"
+             x="9.6791058"
+             y="161.0088"
+             style="fill:#000000;stroke-width:0.26458332">user</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="79.332664"
+           y="94.863457"
+           id="text3825-39"><tspan
+             sodipodi:role="line"
+             id="tspan3823-48"
+             x="79.332664"
+             y="94.863457"
+             style="fill:#ffffff;stroke-width:0.26458332">Type</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="79.343246"
+           y="108.09263"
+           id="text3857-1"><tspan
+             sodipodi:role="line"
+             id="tspan3855-2"
+             x="79.343246"
+             y="108.09263"
+             style="stroke-width:0.26458332">int</tspan></text>
+        <text
+           id="text3879-9"
+           y="121.11028"
+           x="79.311501"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="stroke-width:0.26458332"
+             y="121.11028"
+             x="79.311501"
+             id="tspan3877-3"
+             sodipodi:role="line">varchar(1)</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="79.311501"
+           y="135.29166"
+           id="text3883-9"><tspan
+             sodipodi:role="line"
+             id="tspan3881-08"
+             x="79.311501"
+             y="135.29166"
+             style="stroke-width:0.26458332">varchar(150)</tspan></text>
+        <text
+           id="text3887-8"
+           y="148.07112"
+           x="79.311501"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="stroke-width:0.26458332"
+             y="148.07112"
+             x="79.311501"
+             id="tspan3885-5"
+             sodipodi:role="line">date</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="79.480835"
+           y="161.61734"
+           id="text3891-0"><tspan
+             sodipodi:role="line"
+             id="tspan3889-9"
+             x="79.480835"
+             y="161.61734"
+             style="stroke-width:0.26458332">int</tspan></text>
+        <text
+           id="text3903-63"
+           y="108.09263"
+           x="144.95973"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="stroke-width:0.26458332"
+             y="108.09263"
+             x="144.95973"
+             id="tspan3901-8"
+             sodipodi:role="line">Operation's ID</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="144.92798"
+           y="121.11028"
+           id="text3907-5"><tspan
+             sodipodi:role="line"
+             id="tspan3905-61"
+             x="144.92798"
+             y="121.11028"
+             style="stroke-width:0.26458332">Type of operation, s for sale, d for delete, u for update.</tspan></text>
+        <text
+           id="text3911-15"
+           y="135.29166"
+           x="144.92798"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="stroke-width:0.26458332"
+             y="135.29166"
+             x="144.92798"
+             id="tspan3909-9"
+             sodipodi:role="line">Operation verbose description</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="144.92798"
+           y="148.07112"
+           id="text3915-8"><tspan
+             sodipodi:role="line"
+             id="tspan3913-4"
+             x="144.92798"
+             y="148.07112"
+             style="stroke-width:0.26458332">Operation's date</tspan></text>
+        <text
+           id="text3919-8"
+           y="161.61734"
+           x="145.09732"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="stroke-width:0.26458332"
+             y="161.61734"
+             x="145.09732"
+             id="tspan3917-1"
+             sodipodi:role="line">User that performed the operation id's</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="144.99149"
+           y="173.78299"
+           id="text3923-0"><tspan
+             sodipodi:role="line"
+             id="tspan3921-3"
+             x="144.99149"
+             y="183.22125"
+             style="stroke-width:0.26458332" /></text>
+      </g>
+      <text
+         id="text7921"
+         y="206.52632"
+         x="-808.55652"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.86794281px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="206.52632"
+           x="-808.55652"
+           id="tspan7919"
+           sodipodi:role="line">Operations</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.32291663;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -229.85179,34.006784 h 57.73022 V 220.02637 h -68.421"
+       id="path7971"
+       inkscape:connector-curvature="0" />
+    <g
+       transform="translate(391.65786,-236.14838)"
+       id="layer1-44"
+       inkscape:label="Layer 1">
+      <rect
+         y="85.333321"
+         x="0"
+         height="13.229164"
+         width="450.40042"
+         id="rect3719-4"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text3817-4"
+         y="174.23782"
+         x="13.563107"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="fill:#000000;stroke-width:0.26458332"
+           y="183.67609"
+           x="13.563107"
+           id="tspan3815-7"
+           sodipodi:role="line" /></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="144.95973"
+         y="94.863457"
+         id="text3829-6"><tspan
+           sodipodi:role="line"
+           id="tspan3827-31"
+           x="144.95973"
+           y="94.863457"
+           style="fill:#ffffff;stroke-width:0.26458332">Description</tspan></text>
+      <text
+         id="text3723-7"
+         y="94.863457"
+         x="9.8166895"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="fill:#ffffff;stroke-width:0.26458332"
+           y="94.863457"
+           x="9.8166895"
+           id="tspan3721-5"
+           sodipodi:role="line">Name</tspan></text>
+      <text
+         id="text3825-9"
+         y="94.863457"
+         x="79.332664"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="fill:#ffffff;stroke-width:0.26458332"
+           y="94.863457"
+           x="79.332664"
+           id="tspan3823-62"
+           sodipodi:role="line">Type</tspan></text>
+      <rect
+         y="111.79166"
+         x="0"
+         height="13.229164"
+         width="449.79166"
+         id="rect3744-17"
+         style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect3803-8"
+         width="449.79166"
+         height="12.700195"
+         x="0"
+         y="138.77896" />
+      <rect
+         y="164.70778"
+         x="0"
+         height="13.229706"
+         width="449.79166"
+         id="rect3813-5"
+         style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="9.7743559"
+         y="108.09263"
+         id="text3740-7"><tspan
+           sodipodi:role="line"
+           id="tspan3738-41"
+           x="9.7743559"
+           y="108.09263"
+           style="fill:#000000;stroke-width:0.26458332">id</tspan></text>
+      <text
+         id="text3750-8"
+         y="120.78749"
+         x="9.7743559"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="fill:#000000;stroke-width:0.26458332"
+           y="120.78749"
+           x="9.7743559"
+           id="tspan3748-5"
+           sodipodi:role="line">name</tspan></text>
+      <text
+         id="text3801-9"
+         y="135.07999"
+         x="9.8907728"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="fill:#000000;stroke-width:0.26458332"
+           y="135.07999"
+           x="9.8907728"
+           id="tspan3799-75"
+           sodipodi:role="line">category_id</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="9.7743559"
+         y="147.85947"
+         id="text3807-3"><tspan
+           sodipodi:role="line"
+           id="tspan3805-88"
+           x="9.7743559"
+           y="147.85947"
+           style="fill:#000000;stroke-width:0.26458332">description</tspan></text>
+      <text
+         id="text3833-3"
+         y="161.0088"
+         x="9.6791058"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="fill:#000000;stroke-width:0.26458332"
+           y="161.0088"
+           x="9.6791058"
+           id="tspan3831-1"
+           sodipodi:role="line">image</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="9.9119396"
+         y="174.27512"
+         id="text3837-89"><tspan
+           sodipodi:role="line"
+           id="tspan3835-6"
+           x="9.9119396"
+           y="174.27512"
+           style="fill:#000000;stroke-width:0.26458332">price</tspan></text>
+      <text
+         id="text3857-43"
+         y="108.09263"
+         x="79.343246"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="108.09263"
+           x="79.343246"
+           id="tspan3855-3"
+           sodipodi:role="line">int</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="79.311501"
+         y="121.11028"
+         id="text3879-38"><tspan
+           sodipodi:role="line"
+           id="tspan3877-60"
+           x="79.311501"
+           y="121.11028"
+           style="stroke-width:0.26458332">varchar(35)</tspan></text>
+      <text
+         id="text3883-4"
+         y="135.29166"
+         x="79.311501"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="135.29166"
+           x="79.311501"
+           id="tspan3881-88"
+           sodipodi:role="line">int</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="79.311501"
+         y="148.07112"
+         id="text3887-89"><tspan
+           sodipodi:role="line"
+           id="tspan3885-7"
+           x="79.311501"
+           y="148.07112"
+           style="stroke-width:0.26458332">varchar(120)</tspan></text>
+      <text
+         id="text3891-7"
+         y="161.61734"
+         x="79.480835"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="161.61734"
+           x="79.480835"
+           id="tspan3889-64"
+           sodipodi:role="line">varchar(30)</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="79.375"
+         y="173.78299"
+         id="text3895-3"><tspan
+           sodipodi:role="line"
+           id="tspan3893-0"
+           x="79.375"
+           y="173.78299"
+           style="stroke-width:0.26458332">float(7,2)</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="144.95973"
+         y="108.09263"
+         id="text3903-3"><tspan
+           sodipodi:role="line"
+           id="tspan3901-09"
+           x="144.95973"
+           y="108.09263"
+           style="stroke-width:0.26458332">Article's ID</tspan></text>
+      <text
+         id="text3907-25"
+         y="121.11028"
+         x="144.92798"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="121.11028"
+           x="144.92798"
+           id="tspan3905-4"
+           sodipodi:role="line">Article's name</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="144.92798"
+         y="135.29166"
+         id="text3911-0"><tspan
+           sodipodi:role="line"
+           id="tspan3909-59"
+           x="144.92798"
+           y="135.29166"
+           style="stroke-width:0.26458332">Article's category id</tspan></text>
+      <text
+         id="text3915-4"
+         y="148.07112"
+         x="144.92798"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="148.07112"
+           x="144.92798"
+           id="tspan3913-6"
+           sodipodi:role="line">Article's description, MAX 120 char</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="145.09732"
+         y="161.61734"
+         id="text3919-9"><tspan
+           sodipodi:role="line"
+           id="tspan3917-22"
+           x="145.09732"
+           y="161.61734"
+           style="stroke-width:0.26458332">Path to article Image</tspan></text>
+      <text
+         id="text3923-4"
+         y="173.78299"
+         x="144.99149"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="173.78299"
+           x="144.99149"
+           id="tspan3921-7"
+           sodipodi:role="line">Article's price</tspan></text>
+      <rect
+         style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect219"
+         width="449.79166"
+         height="13.229156"
+         x="0"
+         y="191.1667" />
+      <rect
+         y="218.15401"
+         x="0"
+         height="12.700195"
+         width="449.79166"
+         id="rect221"
+         style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text227"
+         y="187.46767"
+         x="9.7743559"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="fill:#000000;stroke-width:0.26458332"
+           y="187.46767"
+           x="9.7743559"
+           id="tspan225"
+           sodipodi:role="line">sku</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="9.7743559"
+         y="200.16254"
+         id="text231"><tspan
+           sodipodi:role="line"
+           id="tspan229"
+           x="9.7743559"
+           y="200.16254"
+           style="fill:#000000;stroke-width:0.26458332">stock</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="9.8907728"
+         y="214.45503"
+         id="text235"><tspan
+           sodipodi:role="line"
+           id="tspan233"
+           x="9.8907728"
+           y="214.45503"
+           style="fill:#000000;stroke-width:0.26458332">on_branch1</tspan></text>
+      <text
+         id="text239"
+         y="227.23451"
+         x="9.7743559"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="fill:#000000;stroke-width:0.26458332"
+           y="227.23451"
+           x="9.7743559"
+           id="tspan237"
+           sodipodi:role="line">on_branch2</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="9.6791058"
+         y="240.38385"
+         id="text243"><tspan
+           sodipodi:role="line"
+           id="tspan241"
+           x="9.6791058"
+           y="240.38385"
+           style="fill:#000000;stroke-width:0.26458332">is_regular</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="79.343246"
+         y="187.46767"
+         id="text251"><tspan
+           sodipodi:role="line"
+           id="tspan249"
+           x="79.343246"
+           y="187.46767"
+           style="stroke-width:0.26458332">int</tspan></text>
+      <text
+         id="text255"
+         y="200.48532"
+         x="79.311501"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="200.48532"
+           x="79.311501"
+           id="tspan253"
+           sodipodi:role="line">int</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="79.311501"
+         y="214.6667"
+         id="text259"><tspan
+           sodipodi:role="line"
+           id="tspan257"
+           x="79.311501"
+           y="214.6667"
+           style="stroke-width:0.26458332">int</tspan></text>
+      <text
+         id="text263"
+         y="227.44617"
+         x="79.311501"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="227.44617"
+           x="79.311501"
+           id="tspan261"
+           sodipodi:role="line">int</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="79.480835"
+         y="240.99239"
+         id="text267"><tspan
+           sodipodi:role="line"
+           id="tspan265"
+           x="79.480835"
+           y="240.99239"
+           style="stroke-width:0.26458332">bit</tspan></text>
+      <text
+         id="text275"
+         y="187.46767"
+         x="144.95973"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="187.46767"
+           x="144.95973"
+           id="tspan273"
+           sodipodi:role="line">Physical label code</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="144.92798"
+         y="200.48532"
+         id="text279"><tspan
+           sodipodi:role="line"
+           id="tspan277"
+           x="144.92798"
+           y="200.48532"
+           style="stroke-width:0.26458332">Units in global stock, should be the sum of branch 1 and branch 2 stock</tspan></text>
+      <text
+         id="text283"
+         y="214.6667"
+         x="144.92798"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="214.6667"
+           x="144.92798"
+           id="tspan281"
+           sodipodi:role="line">Units in branch 1 stock</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="144.92798"
+         y="227.44617"
+         id="text287"><tspan
+           sodipodi:role="line"
+           id="tspan285"
+           x="144.92798"
+           y="227.44617"
+           style="stroke-width:0.26458332">Units in branch 2 stock</tspan></text>
+      <text
+         id="text291"
+         y="240.99239"
+         x="145.09732"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="240.99239"
+           x="145.09732"
+           id="tspan289"
+           sodipodi:role="line">Article is regular</tspan></text>
+    </g>
+    <text
+       id="text8352"
+       y="-167.65102"
+       x="395.2254"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.86794281px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="-167.65102"
+         x="395.2254"
+         id="tspan8350"
+         sodipodi:role="line">Articles</tspan></text>
+    <g
+       transform="translate(961.97559,-231.532)"
+       id="layer1-54"
+       inkscape:label="Layer 1">
+      <rect
+         y="85.333321"
+         x="0"
+         height="13.229164"
+         width="224.89583"
+         id="rect3719-8"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         y="111.79166"
+         x="0"
+         height="13.229164"
+         width="224.89583"
+         id="rect3744-12"
+         style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text3817-8"
+         y="174.23782"
+         x="13.563107"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="fill:#000000;stroke-width:0.26458332"
+           y="183.67609"
+           x="13.563107"
+           id="tspan3815-9"
+           sodipodi:role="line" /></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="144.95973"
+         y="94.863457"
+         id="text3829-3"><tspan
+           sodipodi:role="line"
+           id="tspan3827-6"
+           x="144.95973"
+           y="94.863457"
+           style="fill:#ffffff;stroke-width:0.26458332">Description</tspan></text>
+      <text
+         id="text3723-8"
+         y="94.863457"
+         x="9.8166895"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="fill:#ffffff;stroke-width:0.26458332"
+           y="94.863457"
+           x="9.8166895"
+           id="tspan3721-0"
+           sodipodi:role="line">Name</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="9.7743559"
+         y="108.09263"
+         id="text3740-21"><tspan
+           sodipodi:role="line"
+           id="tspan3738-0"
+           x="9.7743559"
+           y="108.09263"
+           style="fill:#000000;stroke-width:0.26458332">id</tspan></text>
+      <text
+         id="text3750-51"
+         y="120.78749"
+         x="9.7743559"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="fill:#000000;stroke-width:0.26458332"
+           y="120.78749"
+           x="9.7743559"
+           id="tspan3748-1"
+           sodipodi:role="line">name</tspan></text>
+      <text
+         id="text3825-08"
+         y="94.863457"
+         x="79.332664"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="fill:#ffffff;stroke-width:0.26458332"
+           y="94.863457"
+           x="79.332664"
+           id="tspan3823-5"
+           sodipodi:role="line">Type</tspan></text>
+      <text
+         id="text3857-0"
+         y="108.09263"
+         x="79.343246"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="108.09263"
+           x="79.343246"
+           id="tspan3855-64"
+           sodipodi:role="line">int</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="79.311501"
+         y="121.11028"
+         id="text3879-6"><tspan
+           sodipodi:role="line"
+           id="tspan3877-2"
+           x="79.311501"
+           y="121.11028"
+           style="stroke-width:0.26458332">varchar(35)</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="144.95973"
+         y="108.09263"
+         id="text3903-58"><tspan
+           sodipodi:role="line"
+           id="tspan3901-6"
+           x="144.95973"
+           y="108.09263"
+           style="stroke-width:0.26458332">category's ID</tspan></text>
+      <text
+         id="text3907-28"
+         y="121.11028"
+         x="144.92798"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="121.11028"
+           x="144.92798"
+           id="tspan3905-47"
+           sodipodi:role="line">category's name</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.86794281px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="961.83679"
+       y="-160.16747"
+       id="text9122"><tspan
+         sodipodi:role="line"
+         id="tspan9120"
+         x="961.83679"
+         y="-160.16747"
+         style="stroke-width:0.26458332">Categories</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.32291663;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 841.36446,-104.97337 64.14468,-1.06908 1.06908,-18.17432 54.52298,-1.06908"
+       id="path9124"
+       inkscape:connector-curvature="0" />
+    <g
+       transform="translate(817.37848,39.513151)"
+       id="layer1-40"
+       inkscape:label="Layer 1">
+      <rect
+         y="85.333321"
+         x="0"
+         height="13.229164"
+         width="343.95834"
+         id="rect3719-62"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         y="111.79166"
+         x="0"
+         height="13.229164"
+         width="343.95834"
+         id="rect3744-9"
+         style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect3803-90"
+         width="343.95834"
+         height="12.700195"
+         x="0"
+         y="138.77896" />
+      <text
+         id="text3817-81"
+         y="174.23782"
+         x="13.563107"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="fill:#000000;stroke-width:0.26458332"
+           y="183.67609"
+           x="13.563107"
+           id="tspan3815-3"
+           sodipodi:role="line" /></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="144.95973"
+         y="94.863457"
+         id="text3829-1"><tspan
+           sodipodi:role="line"
+           id="tspan3827-10"
+           x="144.95973"
+           y="94.863457"
+           style="fill:#ffffff;stroke-width:0.26458332">Description</tspan></text>
+      <text
+         id="text3723-3"
+         y="94.863457"
+         x="9.8166895"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="fill:#ffffff;stroke-width:0.26458332"
+           y="94.863457"
+           x="9.8166895"
+           id="tspan3721-4"
+           sodipodi:role="line">Name</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="9.7743559"
+         y="108.09263"
+         id="text3740-03"><tspan
+           sodipodi:role="line"
+           id="tspan3738-91"
+           x="9.7743559"
+           y="108.09263"
+           style="fill:#000000;stroke-width:0.26458332">id</tspan></text>
+      <text
+         id="text3750-9"
+         y="120.78749"
+         x="9.7743559"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="fill:#000000;stroke-width:0.26458332"
+           y="120.78749"
+           x="9.7743559"
+           id="tspan3748-69"
+           sodipodi:role="line">name</tspan></text>
+      <text
+         id="text3801-3"
+         y="135.07999"
+         x="9.8907728"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="fill:#000000;stroke-width:0.26458332"
+           y="135.07999"
+           x="9.8907728"
+           id="tspan3799-3"
+           sodipodi:role="line">contact_phone</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="9.7743559"
+         y="147.85947"
+         id="text3807-8"><tspan
+           sodipodi:role="line"
+           id="tspan3805-0"
+           x="9.7743559"
+           y="147.85947"
+           style="fill:#000000;stroke-width:0.26458332">has_credit</tspan></text>
+      <text
+         id="text3825-5"
+         y="94.863457"
+         x="79.332664"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="fill:#ffffff;stroke-width:0.26458332"
+           y="94.863457"
+           x="79.332664"
+           id="tspan3823-66"
+           sodipodi:role="line">Type</tspan></text>
+      <text
+         id="text3857-40"
+         y="108.09263"
+         x="79.343246"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="108.09263"
+           x="79.343246"
+           id="tspan3855-04"
+           sodipodi:role="line">int</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="79.311501"
+         y="121.11028"
+         id="text3879-62"><tspan
+           sodipodi:role="line"
+           id="tspan3877-67"
+           x="79.311501"
+           y="121.11028"
+           style="stroke-width:0.26458332">varchar(35)</tspan></text>
+      <text
+         id="text3883-5"
+         y="135.29166"
+         x="79.311501"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="135.29166"
+           x="79.311501"
+           id="tspan3881-6"
+           sodipodi:role="line">varchar(15)</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="79.311501"
+         y="148.07112"
+         id="text3887-98"><tspan
+           sodipodi:role="line"
+           id="tspan3885-72"
+           x="79.311501"
+           y="148.07112"
+           style="stroke-width:0.26458332">bit</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="144.95973"
+         y="108.09263"
+         id="text3903-8"><tspan
+           sodipodi:role="line"
+           id="tspan3901-2"
+           x="144.95973"
+           y="108.09263"
+           style="stroke-width:0.26458332">Client's ID</tspan></text>
+      <text
+         id="text3907-9"
+         y="121.11028"
+         x="144.92798"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           id="tspan975"
+           style="stroke-width:0.26458332"
+           y="121.11028"
+           x="144.92798"
+           sodipodi:role="line">Client's name</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="144.92798"
+         y="135.29166"
+         id="text3911-9"><tspan
+           sodipodi:role="line"
+           id="tspan3909-6"
+           x="144.92798"
+           y="135.29166"
+           style="stroke-width:0.26458332">Client's phone number</tspan></text>
+      <text
+         id="text3915-0"
+         y="148.07112"
+         x="144.92798"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="148.07112"
+           x="144.92798"
+           id="tspan3913-27"
+           sodipodi:role="line">Client can have a credit, 1 for true, 0 for false</tspan></text>
+    </g>
+    <text
+       id="text9407"
+       y="108.52245"
+       x="821.26392"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.86794281px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="108.52245"
+         x="821.26392"
+         id="tspan9405"
+         sodipodi:role="line">Clients</tspan></text>
+  </g>
+</svg>
