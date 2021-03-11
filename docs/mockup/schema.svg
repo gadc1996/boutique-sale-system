@@ -16,7 +16,10 @@
    version="1.1"
    id="svg10239"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="schema.svg">
+   sodipodi:docname="schema.svg"
+   inkscape:export-filename="/home/alex/cali-boutique/docs/mockup/schema.png"
+   inkscape:export-xdpi="10.414901"
+   inkscape:export-ydpi="10.414901">
   <defs
      id="defs10233" />
   <sodipodi:namedview
@@ -26,7 +29,7 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.10866936"
+     inkscape:zoom="0.077388498"
      inkscape:cx="5530.5376"
      inkscape:cy="1015.2082"
      inkscape:document-units="mm"
@@ -36,10 +39,10 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1366"
-     inkscape:window-height="768"
+     inkscape:window-width="1020"
+     inkscape:window-height="711"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="55"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata10236">
@@ -49,7 +52,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
