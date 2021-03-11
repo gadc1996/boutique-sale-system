@@ -34,7 +34,7 @@ CREATE TABLE branches(
 
 
 CREATE TABLE users(
-	id int AUTO_INCREMENT PRIMARY KEY,
+	id int AUTO_INCREMENT,
 	name varchar(35),
 	password varchar(20),
 	is_super bit,
@@ -46,3 +46,6 @@ CREATE TABLE users(
 
 
 ```
+
+## License
+[MIT License](/LICENSE)
